@@ -3,6 +3,6 @@
 
 <h3 align="left">SEE MY PORTFOLIO WEBSITE:</h3>
 
-<div>
+<p>
   <a href="https://www.muhammadhamzafaisal.netlify.app"></a>
-    </div>
+    </p>
